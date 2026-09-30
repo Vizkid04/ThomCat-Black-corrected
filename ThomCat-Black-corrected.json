@@ -1,5 +1,5 @@
 {
-  "name": "ThomCat black theme (Fixed)",
+  "name": "ThomCat black theme",
   "is_dark": true,
   "colors": {
     "accent": "#cc7b19",
@@ -22,8 +22,8 @@
     "timeline-highlights-color": "#212121",
     "timeline-scroller-color": "#323232",
     "roomview-background": "#000000",
-    "panel-background": "#000000",
-    "panel-actions": "#191919",
+    "panel-background": "#191919",
+    "panel-actions": "#212121",
     "topmost-side-panel-background": "#000000",
     "secondary-content": "#e5e5e5",
     "tertiary-content": "#e5e5e5",
